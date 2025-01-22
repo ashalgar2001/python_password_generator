@@ -1,4 +1,5 @@
 Password Generator
+
 Description --
 This project is a Password Generator built with Python. It allows users to create secure, randomized passwords by specifying the number of letters, symbols, and numbers they want in the password. The script then generates a password with the desired configuration and ensures the characters are shuffled for additional security.
 
